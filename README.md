@@ -1,7 +1,8 @@
 # Blinky_esp32
 Test ability to code generate imbedded application software for deployement ESP32 System-on-a-Chip (SOC) module from a UML state chart.
 
-(insert state chart image here)
+![SM_of_Blinky](https://github.com/smr547/Blinky_esp32/assets/4327895/9005056c-fb60-4da3-ab45-49a0c3f24e8f)
+
 
 ## Background
 I'm inspired by the work of [Miro Samek](https://www.linkedin.com/in/samek) from [Quantum Leaps](https://www.state-machine.com/). Miro's
