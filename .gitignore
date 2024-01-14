@@ -2,5 +2,7 @@ build/*
 bsp.hpp
 bsp.cpp
 blinky.cpp
-bliky.hpp
+blinky.hpp
 main.cpp
+.pio
+.vscode
